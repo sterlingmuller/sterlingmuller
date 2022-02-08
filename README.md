@@ -1,3 +1,4 @@
+![github banner] (theLittlePrince.jpeg)
 ### Hi there 👋
 
 <!--
