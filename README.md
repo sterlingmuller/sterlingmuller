@@ -1,4 +1,4 @@
-![github banner](theLittlePrince.jpeg)
+![github banner](littlePrinceResize.jpeg)
 ### Hi there 👋
 
 <!--
