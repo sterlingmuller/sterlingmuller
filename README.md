@@ -1,5 +1,5 @@
 ![github banner](littlePrinceResize.jpeg)
-### Howdy! I'm Sterling a full-stack software engineer and musician with a particular interest in frontend engineering and accessibility. Please reach out if you are interested in my work.
+### Howdy! I'm Sterling a frontend software engineer and musician with a particular interest in mobile development and accessibility. Please reach out if you are interested in my work.
 
 📍 Based in Philadelphia, PA
 
