@@ -1,5 +1,5 @@
 ![github banner](littlePrinceResize.jpeg)
-### Howdy! I'm Sterling a frontend software engineer and musician with a particular interest in mobile development and accessibility. Please reach out if you are interested in my work.
+### Howdy! I'm Sterling a software developer and musician with a particular interest in mobile development. I am currently working on a React Native SongJournal app. Please reach out if you are interested in my work.
 
 📍 Based in Austin, TX
 
@@ -13,9 +13,7 @@
 **Back End**<br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <br><br>
 **Testing/Deployment**<br>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
