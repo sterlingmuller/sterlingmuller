@@ -1,5 +1,5 @@
 ![github banner](littlePrinceResize.jpeg)
-### Howdy, I'm Sterling! I'm a software developer and musician with a particular interest in mobile development. I am currently working on a React Native app, SongJournal. Please reach out if you are interested in my work.
+### Howdy, I'm Sterling! I'm a software developer, runner, and musician with a particular interest in mobile development. I am currently working on a React Native app, SongJournal. Please reach out if you are interested in my work.
 
 📍 Based in Austin, TX
 
